@@ -35,7 +35,7 @@ NOTE: You can send commands using private messages to Philharmony, if you don't 
 <br>
 
 !pl (add, list, rm, rmsong, switch)
->Playlist tools - only use in extreme cases as Philharmony on has ONE playlist ~ we don't want to delete their entire playlist!
+>Playlist tools - only use in extreme cases as Philharmony has only ONE playlist ~ we don't want to delete their entire playlist!
 <br>
 
 !props
