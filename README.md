@@ -1,7 +1,7 @@
 # hosono_lounge
 Admin Commands
 
-<< NOTE: You can send commands using private messages to Philharmony, if you don't want the room to see the outputs of the commands >>
+NOTE: You can send commands using private messages to Philharmony, if you don't want the room to see the outputs of the commands
 
 !admin <add/remove> <user>
 Makes <user> able to have advanced controls of Philharmony - do not without consulting other admins!
