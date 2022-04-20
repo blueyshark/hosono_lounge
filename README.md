@@ -21,7 +21,11 @@ NOTE: You can send commands using private messages to Philharmony, if you don't 
 !boot (user)
 >Remove (user) from room
 <br>
-  
+
+!die
+>Turns off Philharmony. Don't do this unless necessary, as I will need to restart my server shell script to turn Phil back on!
+<br>
+
 !escort (user)
 >Remove (user) from stage
 <br>
