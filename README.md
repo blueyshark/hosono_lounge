@@ -3,7 +3,7 @@ Admin Commands
 -
 <br>
 
-NOTE: You can send commands using private messages to Philharmony, to keep outputs private (say if using /boot or /cfg commands)
+NOTE: You can send commands using private messages to Philharmony, to keep outputs private (example: if using /boot or /cfg commands)
 <br><br>
 
 /admin (add/remove) (user)
