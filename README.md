@@ -6,63 +6,63 @@ Admin Commands
 NOTE: You can send commands using private messages to Philharmony, if you don't want the room to see the outputs of the commands
 <br><br>
 
-!admin (add/remove) (user)
+/admin (add/remove) (user)
 >Makes (user) able to have advanced controls of Philharmony - do not without consulting other admins!
 <br>  
   
-!help
+/help
 >Displays all commands you can use
 <br>
 
-!snag
+/snag
 >Philharmony adds current song to their playlist
 <br>
    
-!boot (user)
+/boot (user)
 >Remove (user) from room
 <br>
 
-!die
+/die
 >Turns off Philharmony. Don't do this unless necessary, as I will need to restart my server shell script to turn Phil back on!
 <br>
 
-!escort (user)
+/escort (user)
 >Remove (user) from stage
 <br>
   
-!escortme
->Remove yourself from stage when your song has finished playing
+/escortme
+>Remove yourself from stage when your queued track has finished playing
 <br>
   
-!fan (user) / !unfan (user)
+/fan (user) / !unfan (user)
 >Tell Philharmony to become a fan of (user) or unfan.
 <br>
 
-!pl (add, list, rm, rmsong, switch)
+/pl (add, list, rm, rmsong, switch)
 >Playlist tools - only use in extreme cases as Philharmony has only ONE playlist ~ we don't want to delete their entire playlist!
 <br>
 
-!props
+/props
 >Send a little message of appreciation to the DJ currently playing
 <br>
   
-!q
+/q
 >Queueing toggle - Philharmony turns on the queue when the stage is full ~ allows users to fill spots when they become empty
 <br>
 
-!r
+/r
 >Reactions: more about this below
 <br>
   
-!room
+/room
 >Adds rooms to Philharmony's library ~ not used as they live in Hosono Lounge forever!
 <br>
   
-!say
+/say
 >best used in private message: tell Philharmony to say something in the room
 <br>
   
-!skip
+/skip
 >skips current track
 <br>
 
@@ -72,15 +72,15 @@ NOTE: You can send commands using private messages to Philharmony, if you don't 
 REACTIONS
 <br>
 
-!r
+/r
 >Displays all current Reaction tags
 <br>
 
-!r (tag)
+/r (tag)
 >Displays a gif under the chosen (tag)
 <br>
 
-!r add (tag) (gif url)
+/r add (tag) (gif url)
 >Either: creates a new tag if it doesn't exist, and adds the gif according to the url
 >Or: adds the gif to an *exsisting* tag
 <br>
